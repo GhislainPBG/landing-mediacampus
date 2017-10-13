@@ -1,20 +1,21 @@
 body{
-  background: #84DCCF;
-  color: green;
+  background: #C7CCDB;
+  color: #6B0F1A;
   font-size: 25px;
-  font-family: Helvetica;
+  font-family: 'Lobster', cursive;
+;
 }
 h1{
-  font-family: Courier;
+  font-family: Lobster;
   color: red;
   font-weight: lighter;
   font-size: 10px;
 }
 h2 {
-  font-family: Courier;
-  color: pink;
+  font-family: #6B0F1A;
+  color: black;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 25px;
 }
 a {
   color: yellow;
@@ -23,10 +24,9 @@ a:hover {
   text-decoration: none;
   color: purple;
 }
-
 #banner{
   text-align: center;
-  background-image: url("https://unsplash.it/1300/600?random");
+  background-image: url("https://c1.staticflickr.com/9/8302/7936101566_9d65ef2e65_b.jpg");
   background-size: cover;
   padding: 150px;
   color: white;
@@ -52,8 +52,9 @@ a:hover {
   font-weight: lighter;
 }
 #footer a {
-  color: red;
-  font-size: 25px
-  }
-  
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
 }
