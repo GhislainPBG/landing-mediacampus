@@ -1,21 +1,20 @@
 body{
-  background: #C7CCDB;
-  color: #6B0F1A;
+  background: #F9DC5C;
+  color: #BF211E;
   font-size: 25px;
-  font-family: 'Lobster', cursive;
-;
+  font-family:Lobster, cursive;
 }
 h1{
-  font-family: Lobster;
-  color: red;
+  font-family: Lobster, cursive;
+  color: #BF211E;
   font-weight: lighter;
   font-size: 10px;
 }
 h2 {
-  font-family: #6B0F1A;
+  font-family: Courier;
   color: black;
   font-weight: lighter;
-  font-size: 25px;
+  font-size: 20px;
 }
 a {
   color: yellow;
@@ -24,26 +23,27 @@ a:hover {
   text-decoration: none;
   color: purple;
 }
+
 #banner{
   text-align: center;
   background-image: url("https://c1.staticflickr.com/9/8302/7936101566_9d65ef2e65_b.jpg");
   background-size: cover;
   padding: 150px;
-  color: white;
+  color: #BF211E;
   text-shadow: 1px 1px 5px black;
 }
 #banner h1 {
-  color: white;
+  color: #BF211E;
   font-size: 50px;
 }
 #banner p {
-  color: white;
+  color: #BF211E;
   opacity: 0.8;
-  font-size: 30px;
+  font-size: 100px;
   font-weight: lighter;
 }
 #footer{
-  padding: 30px;
+  padding: 50px;
   background: rgb(30, 30, 30);
   color: lightgrey;
 }
@@ -52,9 +52,8 @@ a:hover {
   font-weight: lighter;
 }
 #footer a {
-  color: lightgrey;
-  font-size: 15px;
-}
-#footer a:hover {
-  color: white;
+  color: #BF211E;
+  font-size: 40px
+  }
+  
 }
